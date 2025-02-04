@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shivamkataria7622
-- 👀 I’m interested in Full stack web devlopment
-- 🌱 I’m currently learning backend devlopment
-- 💞️ I’m looking to collaborate on Fullstack projects.
+-  Hi, I’m @shivamkataria7622
+-  I’m interested in Full stack web devlopment
+-  I’m currently learning backend devlopment
+-  I’m looking to collaborate on Fullstack projects.
 - ⚡ Fun fact: ...
 
 <!---
